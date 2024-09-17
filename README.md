@@ -1,4 +1,4 @@
-#JAVA
+JAVA
 This repository contains a collection of simple Java projects designed to help beginners learn and practice Java programming. 
 Getting Started
 To get started with the projects in this repository, follow these steps:
